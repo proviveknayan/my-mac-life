@@ -43,4 +43,10 @@ $ ./install.sh
 $ open ~/.zshrc
 Set ZSH_THEME="agnoster" and save the file
 
+get zip of color presets https://github.com/pwaleczek/Argonaut-theme#os-x-terminal
+Open Preferences > Profile > Colors > Color Presets > Import
+navigate to the Argonaut-theme-master > os-x-terminal > Argonaut.terminal
+
 Preferences > Profiles > Text > Change Font. I’m choosing “Meslo LG DZ for Powerline” font.
+
+restart terminal
