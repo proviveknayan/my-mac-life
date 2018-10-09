@@ -30,3 +30,15 @@ add zsh-autosuggestions to the plugins section
 control+X
 
 source ~/.zshrc (re-read)
+
+# theme and font
+1. Install Powerline fonts
+
+$ git clone https://github.com/powerline/fonts.git
+$ cd fonts
+$ ./install.sh
+
+2. Change the Theme to “agnoster”
+
+$ open ~/.zshrc
+Set ZSH_THEME="agnoster" and save the file
