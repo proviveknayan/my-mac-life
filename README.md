@@ -14,3 +14,12 @@ restart terminal
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 restart terminal
+
+# syntax Highlighting Plugin
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+nano ~/.zshrc
+
+add zsh-syntax-highlighting to the plugins section
+control+X
+
+source ~/.zshrc (re-read)
