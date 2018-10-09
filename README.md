@@ -23,3 +23,10 @@ add zsh-syntax-highlighting to the plugins section
 control+X
 
 source ~/.zshrc (re-read)
+
+#
+git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+add zsh-autosuggestions to the plugins section
+control+X
+
+source ~/.zshrc (re-read)
