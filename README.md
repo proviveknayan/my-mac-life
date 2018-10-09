@@ -42,3 +42,5 @@ $ ./install.sh
 
 $ open ~/.zshrc
 Set ZSH_THEME="agnoster" and save the file
+
+Preferences > Profiles > Text > Change Font. I’m choosing “Meslo LG DZ for Powerline” font.
