@@ -2,4 +2,4 @@
 
 [Day 1: Terminal setup](https://github.com/proviveknayan/my-mac-life/wiki/Day-1:-Terminal-setup)
 
-[Day 2: Terminal setup](https://github.com/proviveknayan/my-mac-life/wiki/Streaming-NGINX-logs-to-AWS-CloudWatch)
+[Day 2: Streaming NGINX logs to AWS CloudWatch](https://github.com/proviveknayan/my-mac-life/wiki/Streaming-NGINX-logs-to-AWS-CloudWatch)
